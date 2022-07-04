@@ -1,2 +1,4 @@
 # csx4501
-https://hub.gke2.mybinder.org/user/yangzzzjf-csx4501-ik9ekh8k/lab/workspaces/auto-0/tree/Assignment-01.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csx4501/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/csx4501/HEAD
